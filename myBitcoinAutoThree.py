@@ -10,8 +10,13 @@ import logging
 logging.basicConfig(level=logging.INFO)
   
 # 업비트 access key, secret key 변수  
-upbit_access = "QvwJsFcjx0FOXWxxAJvskcEuLx1zmNx2Tuum5p12"
-upbit_secret = "qVUGb1anosrFh9BI3GkQiJnHkjaCFXcKenTUb8Yj"
+# upbit_access = "QvwJsFcjx0FOXWxxAJvskcEuLx1zmNx2Tuum5p12"
+# upbit_secret = "qVUGb1anosrFh9BI3GkQiJnHkjaCFXcKenTUb8Yj"
+
+# aws 서버 업비트 access key, secret key 변수  
+upbit_access = "Huk7vYUx1TB7o2HJf1vJxuxQxsVEi4l2TE6RExjP"
+upbit_secret = "UuuvJwQtz9wHzhcAIcD9DzHyRVWIo4acupnKnaAp"
+
  
 # 코인 리스트
 tickers = []   
